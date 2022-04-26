@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    
+}
+h1{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+#app{
+    width: 100%;
+    height: 800px;
+    background-color: chocolate;
+    
+}
+#games{
+     width: 100%;
+    height: 800px;
+    background-color: cadetblue;
+}
+#titulo{
+    font-size: 60px;
+    font-family: inherit;
+    border-style: dotted;
+    border-color: darkorchid;
+    
+}
